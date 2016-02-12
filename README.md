@@ -1,2 +1,5 @@
-# test-repo
-# test-repo
+#hello-world
+
+main() {
+  System.out.println("Hello World!")
+}
